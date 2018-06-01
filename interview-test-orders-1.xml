@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<Orders>
+<Order>
+<account>AX001</account>
+<submittedAt>1507060723641</submittedAt>
+<receivedAt>1507060723642</receivedAt>
+<market>VOD.L</market>
+<action>BUY</action>
+<size>100</size>
+</Order>
+<Order>
+<account>AX002</account>
+<submittedAt>1507060723641</submittedAt>
+<receivedAt>1507060723642</receivedAt>
+<market>VOD.L</market>
+<action>BUY</action>
+<size>100</size>
+</Order>
+</Orders>
+
